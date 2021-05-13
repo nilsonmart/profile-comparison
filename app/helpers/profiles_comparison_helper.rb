@@ -1,0 +1,2 @@
+module ProfilesComparisonHelper
+end
